@@ -1,0 +1,21 @@
+.project {
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+    margin-bottom: .5rem;
+  }
+
+  b {
+    font-weight: bold;
+  }
+
+  .jumbotron {
+    .row:first-of-type {
+      margin-bottom: 1rem;
+    }
+  }
+}

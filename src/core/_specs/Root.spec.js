@@ -19,6 +19,6 @@ describe('Root component', () => {
     expect(component.find('BrowserRouter').length).toEqual(1);
     expect(component.find('Connect(App)').length).toEqual(1);
     expect(component.find('Switch').length).toEqual(1);
-    expect(component.find('Route').length).toEqual(3);
+    expect(component.find('Route').length).toEqual(5);
   });
 });
